@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#result {
+    text-align: center;
+    border-bottom: 1px solid black;
+    height: 25px;
+    width: 225px;
+    color: #fff;
+    margin: auto;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+.in{
+    margin-top: 300px;
+    font-size: 30px;
+    border: none;
+    height: 40px;
+    width: 500px;
+    border-bottom: 1px solid black;
+
+}
+button{
+    border: none;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(252, 228, 48);
+    font-size: 19px;
+
+
+}
+input:focus
+{
+  
+    outline: none;
+}
